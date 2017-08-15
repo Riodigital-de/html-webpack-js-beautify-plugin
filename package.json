@@ -1,0 +1,29 @@
+{
+  "name": "html-webpack-js-beautify-plugin",
+  "version": "0.1.0",
+  "description": "beautifies html",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riodigital-de/html-webpack-js-beautify-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html-webpack-plugin",
+    "js-beautify"
+  ],
+  "author": "Florian Schade <f.schade@riodigital.de> (https://github.com/riodigital-de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riodigital-de/html-webpack-js-beautify-plugin/issues"
+  },
+  "homepage": "https://github.com/riodigital-de/html-webpack-js-beautify-plugin",
+  "dependencies": {
+    "js-beautify": "^1.6.14",
+    "lodash": "^4.17.4"
+  }
+}
